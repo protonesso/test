@@ -1,4 +1,4 @@
-uclibc linux distro plan:
+# uclibc linux distro plan:
 
 make it for servers
 make it easy to use
